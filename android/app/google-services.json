@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986045792332",
+    "project_id": "talktime-cf369",
+    "storage_bucket": "talktime-cf369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986045792332:android:9c6c5eda430332c97134e9",
+        "android_client_info": {
+          "package_name": "com.talk_time"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDkQYfY0BXQcXF3GzcDc21CV00Soe7bX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
